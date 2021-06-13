@@ -1,0 +1,24 @@
+#table{
+	width: 80%;
+	font-family: sans-serif;
+	margin: 100px 100px 100px 100px;
+
+}
+#table td{
+border: 0px solid #ddd;
+padding: 8px;
+
+
+}
+
+#table th{
+  background-color: #054163;
+  color: white;
+  padding: 8px;
+  font-size: 16px;
+  text-align: left;
+  border-radius: 2px;
+
+}
+
+#table tr:hover {background-color: #ddd;}
